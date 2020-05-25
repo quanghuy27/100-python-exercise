@@ -3,3 +3,4 @@ link: https://docs.google.com/spreadsheets/d/1fG7KAwrOoYRgVkebX1rRxHNlsSz5ghoQIr
 
 Put all code file in folder **src**
 
+Each member create personal brach to do exercise
